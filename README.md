@@ -5,8 +5,11 @@
 
 ## Usage Instructions:
 
-Clone the file from this repo ("Excel to JSON.xlsm")
-This file contains the VBA script and a button to run the script.
+Clone the file from this repo ("Excel to JSON.xlsm").
+This file contains:
+- an example data table,
+- the VBA script,
+- a button to run the script.
 
 Replace the example data with your own, however many columns and
 rows as you require. Then click the button and the file will be 
