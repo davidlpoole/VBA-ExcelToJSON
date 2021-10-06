@@ -11,6 +11,11 @@ This file contains the VBA script and a button to run the script.
 Replace the example data with your own, however many columns and
 rows as you require. Then click the button and the file will be 
 output to the same folder as the "Excel to JSON.xlsm" file.
+(Could also remove the button and run the script either via:
+- the Developer Ribbon > Macros > exportJSON
+- a keyboard shortcut (Developer > Macros > Options...)
+- a button on the Quick Access Toolbar
+- etc...
 
 Filename, folder, etc can be changed within the script.
 
